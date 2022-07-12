@@ -1,3 +1,3 @@
 # koreaisacademy
 
-KoreaIT 교육
+Korea IT 교육
