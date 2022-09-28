@@ -7,7 +7,7 @@ int main()
 {
     clock_t start_time, end_time; // int, char 과 같은 자료형
 
-    start_time = clock();
+    start_time = clock(); 
 
     // duration -- clock cnt
     // duration / CLOCKS_PER_SEC --> 초 
