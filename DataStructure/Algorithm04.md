@@ -1,4 +1,4 @@
-# Kode Jun 데이터구조 5강
+# Algorithm :: recursive Algorithm
 
 거듭제곱 계산하기 - recursion 
 
