@@ -1,4 +1,4 @@
-# Kode Jun 데이터 구조 1강
+# Algorithm :: Algorithm
 
 ## 알고리즘
 - 정의   
