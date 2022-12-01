@@ -1,3 +1,6 @@
+/*
+    Algorithm :: recursive Algorithm
+*/
 #include <stdio.h>
 
 power(x, n){
