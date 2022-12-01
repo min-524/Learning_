@@ -1,4 +1,4 @@
-# Kode Jun 데이터구조 2강 
+# Algorithm :: Big_O
  
 ## Big_O
 
